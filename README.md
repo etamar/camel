@@ -23,9 +23,9 @@ or CXF together with working with pluggable Data Format options.
 Apache Camel is a small library which has minimal dependencies for easy embedding
 in any Java application. Apache Camel lets you work with the same API regardless
 which kind of transport used, so learn the API once and you will be able to
-interact with all the Components that is provided out-of-the-box.
+interact with all the Components that are provided out-of-the-box.
 
-Apache Camel has powerful Bean Binding and integrated seamless with
+Apache Camel has powerful Bean Binding and can be integrated seamlessly with
 popular frameworks such as Spring, CDI, Blueprint and Guice.
 
 Apache Camel has extensive testing support allowing you to easily
@@ -33,7 +33,7 @@ unit test your routes.
 
 ## Components
 
-Apache Camel comes with a lot of artifacts with components, data formats, languages and various other kinds.
+Apache Camel comes with plenty artifacts including components, data formats, languages and many other artifact kinds.
 The up to date list is available online at:
 
 * Components: <https://github.com/apache/camel/tree/master/components#components>
@@ -43,7 +43,7 @@ The up to date list is available online at:
 
 ## Examples
 
-Apache Camel comes with many examples.
+Apache Camel includes many examples.
 The up to date list is available online at:
 
 * Examples: <https://github.com/apache/camel/tree/master/examples#examples>
@@ -102,9 +102,9 @@ Please help us make Apache Camel better - we appreciate any feedback
 you may have.
 
 Enjoy!
+The Camel riders!
 
 -----------------
-The Camel riders!
 
 # Licensing
 
